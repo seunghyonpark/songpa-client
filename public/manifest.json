@@ -1,10 +1,10 @@
 {
     "background_color": "#fff",
     "display": "standalone",
-    "homepage_url": "https://eth-dapps-nextjs-boiletplate.vercel.app/",
+    "homepage_url": "https://songpa-client.vercel.app/",
     "providedBy": {
-      "name": "Lim Chee Kin",
-      "url": "https://github.com/limcheekin/eth-dapps-nextjs-boiletplate"
+      "name": "Wayne Park",
+      "url": "https://github.com/seunghyonpark"
     },
     "icons": [
       {
@@ -21,10 +21,10 @@
       }
     ],
     "orientation": "portrait",
-    "name": "Ethereum dApps Next.js Boiletplate",
+    "name": "Songpa dApps",
     "description": "A dApps to demo the integration of MetaMask, WalletConnect and Greeter smart contract.",
     "iconPath": "./images/256x256_App_Icon.png",
-    "short_name": "eth-dapps-nextjs-boiletplate",
+    "short_name": "songpa-dapps",
     "start_url": ".",
     "theme_color": "#ffffff",
     "skylink": "AQDeoXNWsZyfJhkSkRIzaThBlmzVKaySy9mpPvOmIcSIoA"

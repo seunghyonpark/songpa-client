@@ -10,7 +10,8 @@ import Greeter from '../components/Greeter'
 function Home() {
   const { isOpen, onOpen, onClose } = useDisclosure()
 
-  const title = 'Ethereum dApps Next.js Boiletplate'
+  const title = 'Songpa dApps'
+
   return (
     <Layout>
       <Head>
@@ -22,7 +23,7 @@ function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://github.com/limcheekin/eth-dapps-nextjs-boiletplate">{title}</a>
+          Welcome to <a href="https://github.com/seunghyonpark/songpa-client">{title}</a>
         </h1>
 
         <p className={styles.description}>
